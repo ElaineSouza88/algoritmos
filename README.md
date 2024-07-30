@@ -1,6 +1,6 @@
 **Curso de Algoritmos**
 
-Esse curso foi realizado no site [Curso em vídeo](https://www.cursoemvideo.com/) do professor Gustavo Guanabara.
+Esse curso foi realizado no site [Curso em vídeo](https://www.cursoemvideo.com/) do professor Gustavo Guanabara 🤓 🖖
 
 __*Dados do Curso*__
 1. 40 horas
